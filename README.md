@@ -1,10 +1,4 @@
-This is the Lean-In 5.0 Hackathon project created by Team O(1) Coders; consisting of Dipen Kalsi and Raghav Agarwal from MAIT, Delhi and Ayushi Gupta and Shreya Jha from IGDTUW, Delhi.
-
-[Idea Presentation](https://www.canva.com/design/DAF7iZF5KrY/921A0R3ozQjxgn39Wl6wwA/view?utm_content=DAF7iZF5KrY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-[Video Presentation](https://youtu.be/Bur8-MAHUrs?si=We6-a_CiSFaN5EtC)
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the Codescript 2.0 Hackathon project created by Team Fantastic 4 consisting of Dipen Kalsi, Raghav Agarwal, Paras Jain and Bhagyansh Bhargava from MAIT, Delhi.
 
 ## PROBLEM STATEMENT
 In today's fast-paced world, school students grapple with career decisions amid a lack of accessible and comprehensive guidance systems. The current landscape falls short in providing equal access, particularly for underprivileged communities, hindering students from exploring diverse career paths. Generic advice further compounds the issue, failing to recognize individual interests and talents. Socioeconomic disparities exacerbate these challenges, leaving marginalized students with limited access to quality career resources.
